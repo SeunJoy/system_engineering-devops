@@ -1,1 +1,1 @@
-# system_engineering-devops
+fixing redirection with bash script 
